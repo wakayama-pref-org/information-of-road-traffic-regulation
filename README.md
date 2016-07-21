@@ -1,9 +1,8 @@
 # information-of-road-traffic-regulation
 　和歌山県内の道路規制情報（2015年5月11日時点）です。
-http://www12.info-mapping.com/wakayamadoro_pub/open_data/data.zip
 
-###（GitHubアカウント「wakayama-pref-org」について）
-　「wakayama-pref-org」は、オープンデータのニーズ把握や、技術者の方等との協働した地域課題の解決等のために和歌山県情報政策課が、試験的に運用しているものです。
+###（GitHubアカウント「Wakayama Prefecture」について）
+　「Wakayama Prefecture」は、オープンデータのニーズ把握や、技術者の方等との協働した地域課題の解決等のために和歌山県情報政策課が、試験的に運用しているものです。
 
 ### （ライセンス）
 
@@ -14,7 +13,7 @@ http://www12.info-mapping.com/wakayamadoro_pub/open_data/data.zip
 
 ### （免責）
 
-　「wakayama-pref-org」に掲載されるデータ使用、名称や内容等の改変や削除、サービスの停止等により、利用者及び第三者に生じた損害等については、和歌山県は一切責任を負いません。
+　「Wakayama Prefecture」に掲載されるデータ使用、名称や内容等の改変や削除、サービスの停止等により、利用者及び第三者に生じた損害等については、和歌山県は一切責任を負いません。
 
 ### （個別機能についての考え方）
 
